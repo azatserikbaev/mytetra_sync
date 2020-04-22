@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="1587045832s6zc3bs6uz" name="root">
+   <recordtable>
+    <record id="15870459128yswv1b1fw" name="Запуск mytetra на другом компьютере и подтягивание этой БД" author="SorokinRed" url="" tags="" ctime="20200416200512" dir="158704591233uy6josnd" file="text.html"/>
+    <record id="1587051382bcsuwekr7h" name="MyTetra Энциклопедии и настройка синхронизации через git" author="" url="" tags="" ctime="20200416213622" dir="1587051382kdx0aq282e" file="text.html"/>
+   </recordtable>
+   <node crypt="0" icon="" id="1587050374x2eyywjmt0" name="!Закладки">
+    <recordtable>
+     <record id="1587529398nd7ls4k9jp" name="НЦТ подача заявки" author="" url="" tags="" ctime="20200422102318" dir="158752939802zsrz2haw" file="text.html"/>
+    </recordtable>
+    <node crypt="0" icon="" id="1587050381brp71u1012" name="Почитать">
+     <recordtable>
+      <record id="1587050401lrs2mx540c" name="56 команд, которые должен знать каждый пользователь Windows." author="" url="" tags="" ctime="20200416212001" dir="158705040123j5p8niji" file="text.html" crypt="0"/>
+      <record id="1587051158s0a1pjctxj" name="10 трюков, упрощающих математические операции " author="" url="" tags="" ctime="20200416213238" dir="1587051158fqh6wo8ha4" file="text.html" crypt="0"/>
+      <record id="15870512302iqt69wumh" name="Учимся читать в три раза быстрее за 20 минут&#10;&#10;" author="" url="" tags="" ctime="20200416213350" dir="1587051230rea137qonl" file="text.html" crypt="0"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="1" icon="" id="1587067435dcjnc0hl9i" name="UkM1U0lNUAObPIAr9aIr0u6+KGJJqkB8CmOZvJQKorGEMZF6FkCrxtxWxfLr960AbQMKyBhGmmk=">
+    <recordtable>
+     <record id="1587057252482n49552v" name="UkM1U0lNUAOLNUeSG3ER/dr+T8D5BoSyXB/NxTPyJKP7NE61UuvGZZ7gdcwoIIrWJnZrPeoG7iMeRP8Mrj4LcQ==" author="" url="" tags="" ctime="20200417020443" dir="1587057252hp82phmmn2" file="text.html" crypt="1"/>
+     <record id="1587150417tsj90xyvls" name="UkM1U0lNUAOP54I5L+75c8ikg7DpJ5ViG4AKnX0cLyNdIpBGSMRwTQuO88LJO3ZflzoKw3o+mEg2fHiQs0SJgXasr1Rgc+Ol" author="" url="" tags="" ctime="20200418010657" dir="1587150417sc3tc2vmsf" file="text.html" crypt="1"/>
+     <record id="1587066398y0praniy2i" name="UkM1U0lNUAMKum+1osn+Em6YgduAoVS3VM6xhhACx42grlCtDPa6sOUAB6oawv6rIuTXX3biW+Ekzrx+8i2C5JjBKziyB/Bu" author="" url="" tags="" ctime="20200417020450" dir="1587066398nzwh6zaxkv" file="text.html" crypt="1"/>
+     <record id="15871478033ud1rp45en" name="UkM1U0lNUAPnh0/0PSjA3XsWJAIsigwWvdKYVCVTDr2v7qWZ90+zl+1udODMA3qmlLrrUK0RrKghpRzg/zLLJSI1ts/PBMrvd7BP7IiOA2HUAxaec0JZJo4Pd3t6Lq7k" author="" url="" tags="" ctime="20200418002323" dir="1587147803jt30bffxbp" file="text.html" crypt="1"/>
+     <record id="15871956987fa3beusya" name="UkM1U0lNUAOEKOE3ZD/AdmAUrqOJGg6hksTjdTwjJYB2tB0geZkKbQsD4toNQ7ASBaArmpYs9uDRLKTJwz8x3A==" author="" url="" tags="" ctime="20200418134138" dir="1587195698red8h68e5a" file="text.html" crypt="1"/>
+     <record id="1587196127q0fiz37dqm" name="UkM1U0lNUAMgLej8I/lE6Nj+j/kItE9ZgzJdny7HRAtmn5aOYfvLoiNQM3j4mZqlsLiDT4CSicu3NXUDsJSXRQ==" author="" url="" tags="" ctime="20200418134847" dir="15871961274ygemv8e8g" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1587045955k4ukjn8jav" name="Компьютер">
+    <node crypt="" id="1587045955fwqspkptfi" name="Hardware">
+     <recordtable>
+      <record id="15870434430dqtg8f9s7" name="Keyboards" author="" url="" tags="" ctime="20200416200555" dir="1587043443xce6o2a6tx" file="text.html"/>
+      <record id="1587043944erwpc5m4r8" name="&#10;Размеры материнских плат и корпусов" author="" url="" tags="" ctime="20200416200555" dir="15870439444gzl0j2upp" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1587045955hkso8q0wp5" name="Software">
+     <recordtable>
+      <record id="1587044594b2t3xghhd3" name="utorrent реклама" author="" url="" tags="" ctime="20200416200555" dir="1587044594a11ghdmss6" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1587045955km2ryzj93l" name="Windows">
+      <recordtable>
+       <record id="1587035664j68drh4nud" name="Добавление приложений в автозагрузку" author="" url="" tags="" ctime="20200416200555" dir="1587035664x20136xaii" file="text.html"/>
+       <record id="15870368623zz4skl0va" name="Logon screen background" author="" url="" tags="" ctime="20200416200555" dir="1587036862id7hj1yuzy" file="text.html"/>
+       <record id="1587036934cjstcd2f5i" name="Windows 7 time off when dual booting Fedora Linux" author="" url="" tags="" ctime="20200416200555" dir="1587036934os56szkco9" file="text.html"/>
+       <record id="1587049730tr554jbw3m" name="Раздача Wi-Fi с ПК" author="" url="" tags="" ctime="20200416210850" dir="158704973057vykgzb7d" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1587045955m8kbvqdkuh" name="Word">
+      <recordtable>
+       <record id="1587032018z3b33w2egk" name="Печать книг в формате А5,А6 или даже А7" author="Скопипастил с интернета и отредактировал - я" url="" tags="" ctime="20200416200555" dir="1587032018xcujpexhhe" file="text.html">
+        <files>
+         <file id="1587032933pbyw0no04m" fileName="all_vba_macros.zip" type="file"/>
+        </files>
+       </record>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+   <node crypt="" id="158704596236ur0ms7z3" name="Android">
+    <recordtable>
+     <record id="15870351423ig0cjpt3b" name="Изменение dpi и другие твики build.prop (root, non-root) " author="" url="" tags="" ctime="20200416200602" dir="1587035142kuqsw0czcq" file="text.html" block=""/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1587045969j3vte7nqdg" name="Точные науки">
+    <node crypt="" id="15870459693jaqncslo4" name="Биология">
+     <recordtable>
+      <record id="1587036318rtvk371nbu" name="Картинка для расслабления зрения&#10;" author="" url="" tags="eyes" ctime="20200416200609" dir="1587036318zk1idq1j03" file="text.html">
+       <files>
+        <file id="1587036346ttobbmb7z1" fileName="1453980910yum8h6vsp7.pdf" type="file"/>
+        <file id="1587036346zkeg86aou3" fileName="14539809101z59xvxz29.doc" type="file"/>
+       </files>
+      </record>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1587045976r040dymoxk" name="Языки">
+    <recordtable>
+     <record id="15870365130w57dx2js0" name="Программа для создания карточек для запоминания слов" author="" url="" tags="" ctime="20200416200616" dir="1587036513mu2qspnhqt" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1587045976m441tjzqt3" name="Nihongo">
+     <recordtable>
+      <record id="15870517509m8ktyjyq0" name="wasabi-jpn" author="" url="" tags="" ctime="20200416214230" dir="158705175001y1msu4wz" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1587045976fa5uh1r3da" name="English">
+     <recordtable>
+      <record id="15870370459hwu6qyh9t" name="Сколько слов необходимо знать?" author="" url="" tags="" ctime="20200416200616" dir="158703704595y7111e9u" file="text.html"/>
+      <record id="158703708194dd5798xp" name="Предлоги времени в английском языке (таблица)" author="" url="" tags="" ctime="20200416200616" dir="1587037081me5mq34auf" file="text.html"/>
+      <record id="1587040759i1j5dmicqp" name="Polite asking" author="" url="" tags="" ctime="20200416200616" dir="1587040759ha3l04y531" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="15870459832a8q4buvbf" name="Картинки">
+    <recordtable>
+     <record id="1587036466ijddddcs31" name="Икигай - смысл жизни по японски" author="" url="" tags="" ctime="20200416200623" dir="1587036466wjegpvu3ux" file="text.html"/>
+     <record id="1587036554vbenpk2ym0" name="Прежде кумекай, потом кукарекай" author="" url="" tags="" ctime="20200416200623" dir="1587036554lg17bzv1dc" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1587045989n8zafnh0f8" name="UkM1U0lNUAOQDpVsVzTzIzHQmJyo05e05Woo4FkrlxnsVOakVobqjye90cIc58BE5rSxkfEq5dj3Lnumt6LepoHeJLndn7oe">
+    <recordtable>
+     <record id="1587036696959523997q" name="UkM1U0lNUAMuXmX77emupGHzNWtGUKREkGcYFzuRfvF0RbQzfkrvyXqVsBcKqIuIEsApW9/qzoFuNXXCggKKNKpY0/oeCs0FyR75RqUa2yirqQuAojQKuCa0UzOmBGXOGI5bAbTpb2k=" author="" url="" tags="" ctime="20200416200629" dir="1587036696j43f0xkihw" file="text.html" crypt="1"/>
+     <record id="158704551821ue5epfks" name="UkM1U0lNUAMnw6TT/ssrpMdj+TlShZBUvmcWvhnxrlkM27ZN3R8Ksp64N2WeOkLzGB/dpAuAdCRHZA6EUDnFv1aJczKXr+cCnlbb6kk1GHgVGh32BaaQoZc0KaQjldt2PkWvEqXJKH0HGCPslQMe5owkXd7PEQ+E" author="" url="" tags="" ctime="20200416200629" dir="15870455181jjvljva9e" file="text.html" crypt="1"/>
+     <record id="1587045594lza5dxderx" name="UkM1U0lNUAOfRHcoJx/Iz6QjxGHok/w8502HLZCMHhq0gjIL+RsNlUeP78s1R6EjrzFNmpFC6b1f0rakRkmHafeudnvDN/TU8FxXKinTK+B6XPpFJ5/aVBWb1214mWk50PjUko1skKo=" author="" url="" tags="" ctime="20200416200629" dir="1587045594ztb31s2pk6" file="text.html" crypt="1"/>
+     <record id="1587051923avziia5so6" name="UkM1U0lNUANlcMu2sX4JB9nKIVFRfTftdihbxT7Tg8aLPJ/9oZF/rWRRbgC/EzfjflNY/jKNV2nuyObJUKChf39aadmHGQ+ZPWgOKa2NhhcgHdAeVEuRazlTB1LOOl6DkfJJk/ACePa3dwpkdBpJ/Q==" author="" url="" tags="" ctime="20200416214523" dir="158705192392s7707jet" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1587045995zwbhekoqsu" name="Health">
+    <recordtable>
+     <record id="1587045452whfs9vfdsv" name="Eye relax" author="" url="" tags="eyes" ctime="20200416200635" dir="1587045452w8egdh03fe" file="text.html"/>
+     <record id="1587051013vqoxctzmb1" name="Фитнес для глаз творит чудеса" author="" url="" tags="eyes" ctime="20200416213013" dir="1587051013mw4tfp4xpc" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1587049303oiu5vlybmk" name="UkM1U0lNUANyI1OtzwzaijSzhGW6oP05wKfecNrUG1ZsdLEVdYLjq2g3hyJWVeSi1X5HoW1mg7U=">
+    <recordtable>
+     <record id="15870493662stmdlp9zd" name="UkM1U0lNUAPZJpJFdH9MDEdiRzvFfUBt6/tKygVRyhfbHowBHpZEgvixdbNp6Zin" author="" url="" tags="" ctime="20200416210246" dir="1587049366tekd1s260h" file="text.html" crypt="1"/>
+     <record id="15870494468upnq4gyvx" name="UkM1U0lNUAMGuqc0QubFOR5Htj5S80xv9pPAdlzIpZZEDDxEf3q4pvAJOn7WcRdn" author="" url="" tags="" ctime="20200416210406" dir="15870494469b5xcpg4vl" file="text.html" crypt="1"/>
+     <record id="15870551799mdhhn8fcj" name="UkM1U0lNUAMkwHchYdMb4H/ED6kat4QNVvedPpHPXxO/NBJe0F8zOnv50QRLbIKwWMTjUdxHLoI=" author="" url="" tags="" ctime="20200416223939" dir="1587055179m7bjpjfunf" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
