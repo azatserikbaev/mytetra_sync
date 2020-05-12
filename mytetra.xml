@@ -9,14 +9,12 @@
     <record id="1587051382bcsuwekr7h" name="MyTetra Энциклопедии и настройка синхронизации через git" author="" url="" tags="" ctime="20200416213622" dir="1587051382kdx0aq282e" file="text.html"/>
    </recordtable>
    <node crypt="0" icon="" id="1587050374x2eyywjmt0" name="!Закладки">
-    <recordtable>
-     <record id="1587529398nd7ls4k9jp" name="НЦТ подача заявки" author="" url="" tags="" ctime="20200422102318" dir="158752939802zsrz2haw" file="text.html"/>
-    </recordtable>
     <node crypt="0" icon="" id="1587050381brp71u1012" name="Почитать">
      <recordtable>
       <record id="1587050401lrs2mx540c" name="56 команд, которые должен знать каждый пользователь Windows." author="" url="" tags="" ctime="20200416212001" dir="158705040123j5p8niji" file="text.html" crypt="0"/>
       <record id="1587051158s0a1pjctxj" name="10 трюков, упрощающих математические операции " author="" url="" tags="" ctime="20200416213238" dir="1587051158fqh6wo8ha4" file="text.html" crypt="0"/>
       <record id="15870512302iqt69wumh" name="Учимся читать в три раза быстрее за 20 минут&#10;&#10;" author="" url="" tags="" ctime="20200416213350" dir="1587051230rea137qonl" file="text.html" crypt="0"/>
+      <record id="158704551821ue5epfks" name="1001 книга, которые должен прочитать каждый" author="" url="" tags="" ctime="20200512192437" dir="15870455181jjvljva9e" file="text.html" crypt="0"/>
      </recordtable>
     </node>
    </node>
@@ -28,13 +26,18 @@
      <record id="15871478033ud1rp45en" name="UkM1U0lNUAPnh0/0PSjA3XsWJAIsigwWvdKYVCVTDr2v7qWZ90+zl+1udODMA3qmlLrrUK0RrKghpRzg/zLLJSI1ts/PBMrvd7BP7IiOA2HUAxaec0JZJo4Pd3t6Lq7k" author="" url="" tags="" ctime="20200418002323" dir="1587147803jt30bffxbp" file="text.html" crypt="1"/>
      <record id="15871956987fa3beusya" name="UkM1U0lNUAOEKOE3ZD/AdmAUrqOJGg6hksTjdTwjJYB2tB0geZkKbQsD4toNQ7ASBaArmpYs9uDRLKTJwz8x3A==" author="" url="" tags="" ctime="20200418134138" dir="1587195698red8h68e5a" file="text.html" crypt="1"/>
      <record id="1587196127q0fiz37dqm" name="UkM1U0lNUAMgLej8I/lE6Nj+j/kItE9ZgzJdny7HRAtmn5aOYfvLoiNQM3j4mZqlsLiDT4CSicu3NXUDsJSXRQ==" author="" url="" tags="" ctime="20200418134847" dir="15871961274ygemv8e8g" file="text.html" crypt="1"/>
+     <record id="1588178460ktxrwlev1l" name="UkM1U0lNUAORFW7mYPz8soz7KHQef89QxsE0j+NwgcCBmknZI8VgZCFiM0zOyV9C" author="" url="" tags="" ctime="20200429224100" dir="1588178460ub4i28jijp" file="text.html" crypt="1"/>
+     <record id="1588178596szpn41a0qs" name="UkM1U0lNUAP7iHdUcfMQPtHe6c/0N4lRL8WmekFgNzbfHG7DL544ZRIwZoNVHmLZ" author="" url="" tags="" ctime="20200429224316" dir="15881785966zi3hsrsep" file="text.html" crypt="1"/>
+     <record id="1588179088nigfuef0p3" name="UkM1U0lNUAOyxy73zxxn5Hrt/I3MHDagFLaUTbZcIQdrCGtMvUh+OTCZRws0bg+F9HGrFbBMl2Y=" author="" url="" tags="" ctime="20200429225128" dir="1588179088xd9e8tpctt" file="text.html" crypt="1"/>
+     <record id="15881791190ny9tse38v" name="UkM1U0lNUAPl3Uo2R0DCKga1PVabwtC301P/njnIhg1dNWbMEAZjWkQzTHvoo2Ki" author="" url="" tags="" ctime="20200429225159" dir="1588179119hkjs0q79j9" file="text.html" crypt="1"/>
+     <record id="1588795405hfyl94yw2l" name="UkM1U0lNUAOfvO1vmD1iauSikxWB9ZDA3UHlphnPhteVnQ9uR34rLc3dPzGbWbGB" author="" url="" tags="" ctime="20200507020325" dir="1588795405d3pj8hurkt" file="text.html" crypt="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1587045955k4ukjn8jav" name="Компьютер">
     <node crypt="" id="1587045955fwqspkptfi" name="Hardware">
      <recordtable>
       <record id="15870434430dqtg8f9s7" name="Keyboards" author="" url="" tags="" ctime="20200416200555" dir="1587043443xce6o2a6tx" file="text.html"/>
-      <record id="1587043944erwpc5m4r8" name="&#10;Размеры материнских плат и корпусов" author="" url="" tags="" ctime="20200416200555" dir="15870439444gzl0j2upp" file="text.html"/>
+      <record id="1587043944erwpc5m4r8" name="Размеры материнских плат и корпусов" author="" url="" tags="" ctime="20200416200555" dir="15870439444gzl0j2upp" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1587045955hkso8q0wp5" name="Software">
@@ -58,6 +61,16 @@
        </record>
       </recordtable>
      </node>
+    </node>
+   </node>
+   <node crypt="" id="158928959651hv5yitl3" name="Programming">
+    <node crypt="" id="15892896339v4yuvtuxm" name="HTML&amp;CSS">
+     <recordtable>
+      <record id="1589053688re11x3lrk3" name="Introduction to the CSS basic box model. or why negative margin makes elements &quot;grow&quot;" author="" url="" tags="" ctime="20200512192054" dir="15890536887j5lo6f0xi" file="text.html" crypt="0"/>
+      <record id="1589245412hbe8zp1aqd" name="Centering elements" author="" url="" tags="" ctime="20200512192101" dir="15892454120bfmy0ounr" file="text.html" crypt="0"/>
+      <record id="1589244673w3zw9fyn5v" name="RGB and RYB color cheme" author="" url="" tags="" ctime="20200512192111" dir="1589244673o0lebe4sgi" file="text.html" crypt="0"/>
+      <record id="15891853282miltqycr3" name="Sans vs Sans-serif" author="" url="" tags="" ctime="20200512192130" dir="1589185328i1ygjbwz9a" file="text.html" crypt="0"/>
+     </recordtable>
     </node>
    </node>
    <node crypt="" id="158704596236ur0ms7z3" name="Android">
@@ -91,6 +104,7 @@
       <record id="15870370459hwu6qyh9t" name="Сколько слов необходимо знать?" author="" url="" tags="" ctime="20200416200616" dir="158703704595y7111e9u" file="text.html"/>
       <record id="158703708194dd5798xp" name="Предлоги времени в английском языке (таблица)" author="" url="" tags="" ctime="20200416200616" dir="1587037081me5mq34auf" file="text.html"/>
       <record id="1587040759i1j5dmicqp" name="Polite asking" author="" url="" tags="" ctime="20200416200616" dir="1587040759ha3l04y531" file="text.html"/>
+      <record id="1587045594lza5dxderx" name="Перевод выражений на английский" author="" url="" tags="" ctime="20200512192340" dir="1587045594ztb31s2pk6" file="text.html" crypt="0"/>
      </recordtable>
     </node>
    </node>
@@ -103,8 +117,6 @@
    <node crypt="1" icon="" id="1587045989n8zafnh0f8" name="UkM1U0lNUAOQDpVsVzTzIzHQmJyo05e05Woo4FkrlxnsVOakVobqjye90cIc58BE5rSxkfEq5dj3Lnumt6LepoHeJLndn7oe">
     <recordtable>
      <record id="1587036696959523997q" name="UkM1U0lNUAMuXmX77emupGHzNWtGUKREkGcYFzuRfvF0RbQzfkrvyXqVsBcKqIuIEsApW9/qzoFuNXXCggKKNKpY0/oeCs0FyR75RqUa2yirqQuAojQKuCa0UzOmBGXOGI5bAbTpb2k=" author="" url="" tags="" ctime="20200416200629" dir="1587036696j43f0xkihw" file="text.html" crypt="1"/>
-     <record id="158704551821ue5epfks" name="UkM1U0lNUAMnw6TT/ssrpMdj+TlShZBUvmcWvhnxrlkM27ZN3R8Ksp64N2WeOkLzGB/dpAuAdCRHZA6EUDnFv1aJczKXr+cCnlbb6kk1GHgVGh32BaaQoZc0KaQjldt2PkWvEqXJKH0HGCPslQMe5owkXd7PEQ+E" author="" url="" tags="" ctime="20200416200629" dir="15870455181jjvljva9e" file="text.html" crypt="1"/>
-     <record id="1587045594lza5dxderx" name="UkM1U0lNUAOfRHcoJx/Iz6QjxGHok/w8502HLZCMHhq0gjIL+RsNlUeP78s1R6EjrzFNmpFC6b1f0rakRkmHafeudnvDN/TU8FxXKinTK+B6XPpFJ5/aVBWb1214mWk50PjUko1skKo=" author="" url="" tags="" ctime="20200416200629" dir="1587045594ztb31s2pk6" file="text.html" crypt="1"/>
      <record id="1587051923avziia5so6" name="UkM1U0lNUANlcMu2sX4JB9nKIVFRfTftdihbxT7Tg8aLPJ/9oZF/rWRRbgC/EzfjflNY/jKNV2nuyObJUKChf39aadmHGQ+ZPWgOKa2NhhcgHdAeVEuRazlTB1LOOl6DkfJJk/ACePa3dwpkdBpJ/Q==" author="" url="" tags="" ctime="20200416214523" dir="158705192392s7707jet" file="text.html" crypt="1"/>
     </recordtable>
    </node>
@@ -119,7 +131,10 @@
      <record id="15870493662stmdlp9zd" name="UkM1U0lNUAPZJpJFdH9MDEdiRzvFfUBt6/tKygVRyhfbHowBHpZEgvixdbNp6Zin" author="" url="" tags="" ctime="20200416210246" dir="1587049366tekd1s260h" file="text.html" crypt="1"/>
      <record id="15870494468upnq4gyvx" name="UkM1U0lNUAMGuqc0QubFOR5Htj5S80xv9pPAdlzIpZZEDDxEf3q4pvAJOn7WcRdn" author="" url="" tags="" ctime="20200416210406" dir="15870494469b5xcpg4vl" file="text.html" crypt="1"/>
      <record id="15870551799mdhhn8fcj" name="UkM1U0lNUAMkwHchYdMb4H/ED6kat4QNVvedPpHPXxO/NBJe0F8zOnv50QRLbIKwWMTjUdxHLoI=" author="" url="" tags="" ctime="20200416223939" dir="1587055179m7bjpjfunf" file="text.html" crypt="1"/>
-     <record id="1587532739hvnl1unwww" name="UkM1U0lNUAPiwROBd4SCRgh/NbD9KPD1jb7ORg+7e4uThoEKIbJZaNIyFwk+qWkh" author="" url="" tags="" ctime="20200422111859" dir="15875327392fasb7v89k" file="text.html" crypt="1"/>
+     <record id="1587532739hvnl1unwww" name="UkM1U0lNUANvFG25PCrsNUfLt7XzFXeoO5KdPpO+aCliGElogmitMtHBAHD6TufdZ45q+lQq3WGHTnIpZaWkGIPXQhGv2plZ" author="" url="" tags="" ctime="20200422111859" dir="15875327392fasb7v89k" file="text.html" crypt="1"/>
+     <record id="158773892253304m6nzh" name="UkM1U0lNUAMh4msdE0D/nyTkbwBFL3NQ2n63OIy53UtJTNUlYw8QYuJhlcd+hZQW9eHZzcXPR44=" author="" url="" tags="" ctime="20200424203522" dir="1587738922mn75zeroio" file="text.html" crypt="1"/>
+     <record id="1589028959bzwtfzgbzb" name="UkM1U0lNUAOMNH+JnfabTmkA4GUerYluqirGVuiv3QOZ9BB9E38SmLO/j37b/6TnwrvcQ/0MpDi+wPgP40BFgm5rSNpsQZkp" author="" url="" tags="" ctime="20200509185559" dir="1589028959526hgx1cjw" file="text.html" crypt="1"/>
+     <record id="1589034301ydq04ale3x" name="UkM1U0lNUAOQSFV/RZheukxvTikZA2N7A30ZOl/GFbxrwk/3nIcWnNiLhdzG4ZDN" author="" url="" tags="" ctime="20200509202501" dir="15890343011qk216qabq" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
