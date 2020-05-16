@@ -44,14 +44,6 @@
      <recordtable>
       <record id="1587044594b2t3xghhd3" name="utorrent реклама" author="" url="" tags="" ctime="20200416200555" dir="1587044594a11ghdmss6" file="text.html"/>
      </recordtable>
-     <node crypt="" id="1587045955km2ryzj93l" name="Windows">
-      <recordtable>
-       <record id="1587035664j68drh4nud" name="Добавление приложений в автозагрузку" author="" url="" tags="" ctime="20200416200555" dir="1587035664x20136xaii" file="text.html"/>
-       <record id="15870368623zz4skl0va" name="Logon screen background" author="" url="" tags="" ctime="20200416200555" dir="1587036862id7hj1yuzy" file="text.html"/>
-       <record id="1587036934cjstcd2f5i" name="Windows 7 time off when dual booting Fedora Linux" author="" url="" tags="" ctime="20200416200555" dir="1587036934os56szkco9" file="text.html"/>
-       <record id="1587049730tr554jbw3m" name="Раздача Wi-Fi с ПК" author="" url="" tags="" ctime="20200416210850" dir="158704973057vykgzb7d" file="text.html"/>
-      </recordtable>
-     </node>
      <node crypt="" id="1587045955m8kbvqdkuh" name="Word">
       <recordtable>
        <record id="1587032018z3b33w2egk" name="Печать книг в формате А5,А6 или даже А7" author="Скопипастил с интернета и отредактировал - я" url="" tags="" ctime="20200416200555" dir="1587032018xcujpexhhe" file="text.html">
@@ -59,6 +51,23 @@
          <file id="1587032933pbyw0no04m" fileName="all_vba_macros.zip" type="file"/>
         </files>
        </record>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1589628699kiw9ea5ah4" name="OS">
+     <node crypt="" id="1589628711x0hc509e5h" name="Windows">
+      <recordtable>
+       <record id="1587035664j68drh4nud" name="Добавление приложений в автозагрузку" author="" url="" tags="" ctime="20200516173151" dir="1587035664x20136xaii" file="text.html"/>
+       <record id="15870368623zz4skl0va" name="Logon screen background" author="" url="" tags="" ctime="20200516173151" dir="1587036862id7hj1yuzy" file="text.html"/>
+       <record id="1587036934cjstcd2f5i" name="Windows 7 time off when dual booting Fedora Linux" author="" url="" tags="" ctime="20200516173151" dir="1587036934os56szkco9" file="text.html"/>
+       <record id="1587049730tr554jbw3m" name="Раздача Wi-Fi с ПК" author="" url="" tags="" ctime="20200516173151" dir="158704973057vykgzb7d" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1589628719iq69jxjm3o" name="Linux">
+      <recordtable>
+       <record id="15896287353ot721wgz0" name="How to Stream Audio from Your Linux PC to Android" author="" url="" tags="" ctime="20200516173215" dir="1589628735rqmxgluznd" file="text.html"/>
+       <record id="1589629093ans6rycawp" name="Canon LBP Manjaro" author="" url="" tags="" ctime="20200516173813" dir="1589629093obohyqyu6e" file="text.html"/>
+       <record id="1589630434edtfvjfj75" name="Pulseaudio settings" author="" url="" tags="" ctime="20200516180034" dir="1589630434obshlpbnjg" file="text.html"/>
       </recordtable>
      </node>
     </node>
