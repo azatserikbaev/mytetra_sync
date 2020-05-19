@@ -106,6 +106,7 @@
     <node crypt="" id="1587045976m441tjzqt3" name="Nihongo">
      <recordtable>
       <record id="15870517509m8ktyjyq0" name="wasabi-jpn" author="" url="" tags="" ctime="20200416214230" dir="158705175001y1msu4wz" file="text.html"/>
+      <record id="1589741728e3ph8plmhp" name="Minna no Nihongo" author="" url="" tags="" ctime="20200518005528" dir="1589741728btla93djwa" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1587045976fa5uh1r3da" name="English">
@@ -114,6 +115,7 @@
       <record id="158703708194dd5798xp" name="Предлоги времени в английском языке (таблица)" author="" url="" tags="" ctime="20200416200616" dir="1587037081me5mq34auf" file="text.html"/>
       <record id="1587040759i1j5dmicqp" name="Polite asking" author="" url="" tags="" ctime="20200416200616" dir="1587040759ha3l04y531" file="text.html"/>
       <record id="1587045594lza5dxderx" name="Перевод выражений на английский" author="" url="" tags="" ctime="20200512192340" dir="1587045594ztb31s2pk6" file="text.html" crypt="0"/>
+      <record id="1589745275jb98bpcghv" name="urls" author="" url="" tags="" ctime="20200518015435" dir="1589745275fs9wffx8xk" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -145,6 +147,12 @@
      <record id="158773892253304m6nzh" name="UkM1U0lNUAMh4msdE0D/nyTkbwBFL3NQ2n63OIy53UtJTNUlYw8QYuJhlcd+hZQW9eHZzcXPR44=" author="" url="" tags="" ctime="20200424203522" dir="1587738922mn75zeroio" file="text.html" crypt="1"/>
      <record id="1589028959bzwtfzgbzb" name="UkM1U0lNUAOMNH+JnfabTmkA4GUerYluqirGVuiv3QOZ9BB9E38SmLO/j37b/6TnwrvcQ/0MpDi+wPgP40BFgm5rSNpsQZkp" author="" url="" tags="" ctime="20200509185559" dir="1589028959526hgx1cjw" file="text.html" crypt="1"/>
      <record id="1589034301ydq04ale3x" name="UkM1U0lNUAOQSFV/RZheukxvTikZA2N7A30ZOl/GFbxrwk/3nIcWnNiLhdzG4ZDN" author="" url="" tags="" ctime="20200509202501" dir="15890343011qk216qabq" file="text.html" crypt="1"/>
+     <record id="1589395620l83z8lb9c4" name="UkM1U0lNUAO4K72zg+9I1b84Pk4hb/18llEAF4gUattA1+xtxMJVWpGq5etcudNGsZNcJtH4F6jBrNl1G2jtnjWnoJRZhtzLpZMjSY+gphY=" author="" url="" tags="" ctime="20200514004700" dir="1589395620veoejdxys4" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="158974206393jfcxe95r" name="UkM1U0lNUAMlhJ/ZAbb+IH/BYa0YME9kw6Hn4rT1cz9Z8zLB1UZZkON5L9i1yxa5nztuvgwDEFA=">
+    <recordtable>
+     <record id="1589742133k5y3z708ky" name="UkM1U0lNUAMb1rWWZs9znZmCczxGTlX+fXrZBRnZwq2XPtjx2BlVzgfKV0RxUpkH8a7SwwmEL2k=" author="" url="" tags="" ctime="20200518010213" dir="1589742133kjxx0f095z" file="text.html" crypt="1"/>
     </recordtable>
    </node>
    <node crypt="1" icon="" id="1589911341dz21gq106e" name="UkM1U0lNUAO53LfU36JZ8oAyF9/S6Tx6was9aro7JFVoKAFLDpchhGWyvqfY18skxWmf9SXPy6Q=">
