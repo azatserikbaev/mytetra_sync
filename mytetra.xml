@@ -20,10 +20,6 @@
    </node>
    <node crypt="1" icon="" id="1587067435dcjnc0hl9i" name="UkM1U0lNUAObPIAr9aIr0u6+KGJJqkB8CmOZvJQKorGEMZF6FkCrxtxWxfLr960AbQMKyBhGmmk=">
     <recordtable>
-     <record id="1587057252482n49552v" name="UkM1U0lNUAOLNUeSG3ER/dr+T8D5BoSyXB/NxTPyJKP7NE61UuvGZZ7gdcwoIIrWJnZrPeoG7iMeRP8Mrj4LcQ==" author="" url="" tags="" ctime="20200417020443" dir="1587057252hp82phmmn2" file="text.html" crypt="1"/>
-     <record id="1587150417tsj90xyvls" name="UkM1U0lNUAOP54I5L+75c8ikg7DpJ5ViG4AKnX0cLyNdIpBGSMRwTQuO88LJO3ZflzoKw3o+mEg2fHiQs0SJgXasr1Rgc+Ol" author="" url="" tags="" ctime="20200418010657" dir="1587150417sc3tc2vmsf" file="text.html" crypt="1"/>
-     <record id="1587066398y0praniy2i" name="UkM1U0lNUAMKum+1osn+Em6YgduAoVS3VM6xhhACx42grlCtDPa6sOUAB6oawv6rIuTXX3biW+Ekzrx+8i2C5JjBKziyB/Bu" author="" url="" tags="" ctime="20200417020450" dir="1587066398nzwh6zaxkv" file="text.html" crypt="1"/>
-     <record id="15871478033ud1rp45en" name="UkM1U0lNUAPnh0/0PSjA3XsWJAIsigwWvdKYVCVTDr2v7qWZ90+zl+1udODMA3qmlLrrUK0RrKghpRzg/zLLJSI1ts/PBMrvd7BP7IiOA2HUAxaec0JZJo4Pd3t6Lq7k" author="" url="" tags="" ctime="20200418002323" dir="1587147803jt30bffxbp" file="text.html" crypt="1"/>
      <record id="15871956987fa3beusya" name="UkM1U0lNUAOEKOE3ZD/AdmAUrqOJGg6hksTjdTwjJYB2tB0geZkKbQsD4toNQ7ASBaArmpYs9uDRLKTJwz8x3A==" author="" url="" tags="" ctime="20200418134138" dir="1587195698red8h68e5a" file="text.html" crypt="1"/>
      <record id="1587196127q0fiz37dqm" name="UkM1U0lNUAMgLej8I/lE6Nj+j/kItE9ZgzJdny7HRAtmn5aOYfvLoiNQM3j4mZqlsLiDT4CSicu3NXUDsJSXRQ==" author="" url="" tags="" ctime="20200418134847" dir="15871961274ygemv8e8g" file="text.html" crypt="1"/>
      <record id="1588178460ktxrwlev1l" name="UkM1U0lNUAORFW7mYPz8soz7KHQef89QxsE0j+NwgcCBmknZI8VgZCFiM0zOyV9C" author="" url="" tags="" ctime="20200429224100" dir="1588178460ub4i28jijp" file="text.html" crypt="1"/>
@@ -60,7 +56,7 @@
       <recordtable>
        <record id="1587035664j68drh4nud" name="Добавление приложений в автозагрузку" author="" url="" tags="" ctime="20200516173151" dir="1587035664x20136xaii" file="text.html"/>
        <record id="15870368623zz4skl0va" name="Logon screen background" author="" url="" tags="" ctime="20200516173151" dir="1587036862id7hj1yuzy" file="text.html"/>
-       <record id="1587036934cjstcd2f5i" name="Windows 7 time off when dual booting Fedora Linux" author="" url="" tags="" ctime="20200516173151" dir="1587036934os56szkco9" file="text.html"/>
+       <record id="1587036934cjstcd2f5i" name="Use UTC as system clock in Windows when dualbooting with Unix" author="" url="" tags="" ctime="20200516173151" dir="1587036934os56szkco9" file="text.html"/>
        <record id="1587049730tr554jbw3m" name="Раздача Wi-Fi с ПК" author="" url="" tags="" ctime="20200516173151" dir="158704973057vykgzb7d" file="text.html"/>
       </recordtable>
      </node>
@@ -69,6 +65,7 @@
        <record id="15896287353ot721wgz0" name="How to Stream Audio from Your Linux PC to Android" author="" url="" tags="" ctime="20200516173215" dir="1589628735rqmxgluznd" file="text.html"/>
        <record id="1589629093ans6rycawp" name="Canon LBP Manjaro" author="" url="" tags="" ctime="20200516173813" dir="1589629093obohyqyu6e" file="text.html"/>
        <record id="1589630434edtfvjfj75" name="Pulseaudio settings" author="" url="" tags="" ctime="20200516180034" dir="1589630434obshlpbnjg" file="text.html"/>
+       <record id="1602011137xme8ch9n65" name="Pulseaudio Noise Reduction" author="" url="" tags="" ctime="20201007010537" dir="1602011137attw5y1v0l" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -145,7 +142,6 @@
      <record id="15870494468upnq4gyvx" name="UkM1U0lNUAMGuqc0QubFOR5Htj5S80xv9pPAdlzIpZZEDDxEf3q4pvAJOn7WcRdn" author="" url="" tags="" ctime="20200416210406" dir="15870494469b5xcpg4vl" file="text.html" crypt="1"/>
      <record id="15870551799mdhhn8fcj" name="UkM1U0lNUAMkwHchYdMb4H/ED6kat4QNVvedPpHPXxO/NBJe0F8zOnv50QRLbIKwWMTjUdxHLoI=" author="" url="" tags="" ctime="20200416223939" dir="1587055179m7bjpjfunf" file="text.html" crypt="1"/>
      <record id="1587532739hvnl1unwww" name="UkM1U0lNUANvFG25PCrsNUfLt7XzFXeoO5KdPpO+aCliGElogmitMtHBAHD6TufdZ45q+lQq3WGHTnIpZaWkGIPXQhGv2plZ" author="" url="" tags="" ctime="20200422111859" dir="15875327392fasb7v89k" file="text.html" crypt="1"/>
-     <record id="158773892253304m6nzh" name="UkM1U0lNUAMh4msdE0D/nyTkbwBFL3NQ2n63OIy53UtJTNUlYw8QYuJhlcd+hZQW9eHZzcXPR44=" author="" url="" tags="" ctime="20200424203522" dir="1587738922mn75zeroio" file="text.html" crypt="1"/>
      <record id="1589028959bzwtfzgbzb" name="UkM1U0lNUAOMNH+JnfabTmkA4GUerYluqirGVuiv3QOZ9BB9E38SmLO/j37b/6TnwrvcQ/0MpDi+wPgP40BFgm5rSNpsQZkp" author="" url="" tags="" ctime="20200509185559" dir="1589028959526hgx1cjw" file="text.html" crypt="1"/>
      <record id="1589034301ydq04ale3x" name="UkM1U0lNUAOQSFV/RZheukxvTikZA2N7A30ZOl/GFbxrwk/3nIcWnNiLhdzG4ZDN" author="" url="" tags="" ctime="20200509202501" dir="15890343011qk216qabq" file="text.html" crypt="1"/>
      <record id="1589395620l83z8lb9c4" name="UkM1U0lNUAO4K72zg+9I1b84Pk4hb/18llEAF4gUattA1+xtxMJVWpGq5etcudNGsZNcJtH4F6jBrNl1G2jtnjWnoJRZhtzLpZMjSY+gphY=" author="" url="" tags="" ctime="20200514004700" dir="1589395620veoejdxys4" file="text.html" crypt="1"/>
@@ -157,11 +153,6 @@
      <record id="1590347276w5uhr76gom" name="UkM1U0lNUAOli/aQo3DmHzLB1HhIFXwDpc2CcOLhyCZoAYJ/UEiCNC38Ng+zBlHyyotlrVFGjDSGXKHoFkEiaTEJ13Izcnop" author="" url="" tags="" ctime="20200525010756" dir="1590347276te2rixe85w" file="text.html" crypt="1"/>
      <record id="1590916056udsyvsvb71" name="UkM1U0lNUAPZ5gIZA2TTAmQLN0lGxObiafJFJGy1JsZaYTbW5NNOQjrLXoNxYmf5BMCeHlR1SWY6BG7nVR4ew4/a1GcEJYXpEGf+gTG2ho0IOwIIglkGQcuqKx9NxCDEoY+UN0rlkroO9HETIfq77IhiR/qbBUSz" author="" url="" tags="" ctime="20200531150736" dir="1590916056hpshoz0obw" file="text.html" crypt="1"/>
      <record id="1590916268o8uuz34z37" name="UkM1U0lNUAOkj6n6m66EBqhDDkUPDBkOHzlmaegSJ3uRyapd9ulFchdFfx11inVztNBPBIeSd4k+GltvQ4W6Ddu5zATr9bKfWQ8TVAXJvk8ETzhMLcJTt9cViiYxRwTd" author="" url="" tags="" ctime="20200531151108" dir="15909162680jceli8s00" file="text.html" crypt="1"/>
-    </recordtable>
-   </node>
-   <node crypt="1" icon="" id="1589911341dz21gq106e" name="UkM1U0lNUAO53LfU36JZ8oAyF9/S6Tx6was9aro7JFVoKAFLDpchhGWyvqfY18skxWmf9SXPy6Q=">
-    <recordtable>
-     <record id="15899112953tf17q9iu3" name="UkM1U0lNUAPnQvClf43HqNt7xtytVaDPuAd+eLVSZggcs3qtXIPJ81JLHo7atvi+jCEQJNPayyOyH2B34vpW0pjsnDLhM++HYjaVoY3in9vv+l/ypZhOBErFBeq7K1Ll4T3MUmFqlx8=" author="" url="" tags="" ctime="20200520000221" dir="1589911295ww8e09w03z" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
