@@ -80,6 +80,11 @@
       <record id="1589245412hbe8zp1aqd" name="Centering elements" author="" url="" tags="" ctime="20200512192101" dir="15892454120bfmy0ounr" file="text.html" crypt="0"/>
       <record id="1589244673w3zw9fyn5v" name="RGB and RYB color cheme" author="" url="" tags="" ctime="20200512192111" dir="1589244673o0lebe4sgi" file="text.html" crypt="0"/>
       <record id="15891853282miltqycr3" name="Sans vs Sans-serif" author="" url="" tags="" ctime="20200512192130" dir="1589185328i1ygjbwz9a" file="text.html" crypt="0"/>
+      <record id="1611594930mk1hsxnqy5" name="Flexbox tips" author="" url="" tags="" ctime="20210125231530" dir="1611594930gzwr5e9pra" file="text.html">
+       <files>
+        <file id="1611594962jf5vmrabgh" fileName="flexboxsheet.pdf" type="file"/>
+       </files>
+      </record>
      </recordtable>
     </node>
    </node>
