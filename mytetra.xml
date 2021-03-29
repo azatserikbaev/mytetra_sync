@@ -15,6 +15,9 @@
       <record id="1587051158s0a1pjctxj" name="10 трюков, упрощающих математические операции " author="" url="" tags="" ctime="20200416213238" dir="1587051158fqh6wo8ha4" file="text.html" crypt="0"/>
       <record id="15870512302iqt69wumh" name="Учимся читать в три раза быстрее за 20 минут&#10;&#10;" author="" url="" tags="" ctime="20200416213350" dir="1587051230rea137qonl" file="text.html" crypt="0"/>
       <record id="158704551821ue5epfks" name="1001 книга, которые должен прочитать каждый" author="" url="" tags="" ctime="20200512192437" dir="15870455181jjvljva9e" file="text.html" crypt="0"/>
+      <record id="1602876288q49jsjt5wk" name="SQL" author="" url="" tags="" ctime="20201017012448" dir="1602876288memc95aogl" file="text.html"/>
+      <record id="1606027386wvl1h3rvnv" name="SICP" author="" url="" tags="" ctime="20201122124306" dir="1606027386jx7g6vm0at" file="text.html"/>
+      <record id="1606030443squg0uvjuv" name="Smalltalk" author="" url="" tags="" ctime="20201122133403" dir="16060304439uhsac0kia" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -39,17 +42,13 @@
     </node>
     <node crypt="" id="1587045955hkso8q0wp5" name="Software">
      <recordtable>
-      <record id="1587044594b2t3xghhd3" name="utorrent реклама" author="" url="" tags="" ctime="20200416200555" dir="1587044594a11ghdmss6" file="text.html"/>
+      <record id="1587044594b2t3xghhd3" name="utorrent реклама" author="" url="" tags="" ctime="20201130200854" dir="1587044594a11ghdmss6" file="text.html"/>
+      <record id="1587032018z3b33w2egk" name="Печать книг в формате А5,А6 или даже А7" author="Скопипастил с интернета и отредактировал - я" url="" tags="" ctime="20201130200905" dir="1587032018xcujpexhhe" file="text.html">
+       <files>
+        <file id="1587032933pbyw0no04m" fileName="all_vba_macros.zip" type="file"/>
+       </files>
+      </record>
      </recordtable>
-     <node crypt="" id="1587045955m8kbvqdkuh" name="Word">
-      <recordtable>
-       <record id="1587032018z3b33w2egk" name="Печать книг в формате А5,А6 или даже А7" author="Скопипастил с интернета и отредактировал - я" url="" tags="" ctime="20200416200555" dir="1587032018xcujpexhhe" file="text.html">
-        <files>
-         <file id="1587032933pbyw0no04m" fileName="all_vba_macros.zip" type="file"/>
-        </files>
-       </record>
-      </recordtable>
-     </node>
     </node>
     <node crypt="" id="1589628699kiw9ea5ah4" name="OS">
      <node crypt="" id="1589628711x0hc509e5h" name="Windows">
@@ -62,10 +61,11 @@
      </node>
      <node crypt="" id="1589628719iq69jxjm3o" name="Linux">
       <recordtable>
-       <record id="15896287353ot721wgz0" name="How to Stream Audio from Your Linux PC to Android" author="" url="" tags="" ctime="20200516173215" dir="1589628735rqmxgluznd" file="text.html"/>
-       <record id="1589629093ans6rycawp" name="Canon LBP Manjaro" author="" url="" tags="" ctime="20200516173813" dir="1589629093obohyqyu6e" file="text.html"/>
+       <record id="15896287353ot721wgz0" name="Stream Audio from Your Linux PC to Android" author="Jack Wallen" url="https://www.linux.com/topic/desktop/how-stream-audio-your-linux-pc-android/&#10;" tags="Windows, Linux, Sound" ctime="20200516173215" dir="1589628735rqmxgluznd" file="text.html"/>
+       <record id="1589629093ans6rycawp" name="Canon LBP Manjaro &amp; Arch Linux" author="" url="https://manjaro.ru/how-to/ustanovka-printerov-canon-lbp-v-manjaro-linux.html" tags="Linux, Canon, Printer" ctime="20200516173813" dir="1589629093obohyqyu6e" file="text.html"/>
        <record id="1589630434edtfvjfj75" name="Pulseaudio settings" author="" url="" tags="" ctime="20200516180034" dir="1589630434obshlpbnjg" file="text.html"/>
        <record id="1602011137xme8ch9n65" name="Pulseaudio Noise Reduction" author="" url="" tags="" ctime="20201007010537" dir="1602011137attw5y1v0l" file="text.html"/>
+       <record id="1606750057ix5fawcxkn" name=" UEFI + Secureboot + EFISTUB + Luks2 + lvm + ArchLinux" author="Nwildner" url=" UEFI + Secureboot + EFISTUB + Luks2 + lvm + ArchLinux" tags="Linux lvm luks UEFI ArchLinux" ctime="20201130212737" dir="1606750057i1aq50v0mm" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -77,6 +77,18 @@
       <record id="1589245412hbe8zp1aqd" name="Centering elements" author="" url="" tags="" ctime="20200512192101" dir="15892454120bfmy0ounr" file="text.html" crypt="0"/>
       <record id="1589244673w3zw9fyn5v" name="RGB and RYB color cheme" author="" url="" tags="" ctime="20200512192111" dir="1589244673o0lebe4sgi" file="text.html" crypt="0"/>
       <record id="15891853282miltqycr3" name="Sans vs Sans-serif" author="" url="" tags="" ctime="20200512192130" dir="1589185328i1ygjbwz9a" file="text.html" crypt="0"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1602213635lbr1yn9qjj" name="JavaScript">
+     <recordtable>
+      <record id="1602213814ke51xg7btl" name="JS info" author="" url="" tags="" ctime="20201009092334" dir="1602213814wu2nvgqlmp" file="text.html"/>
+      <record id="1602213851gp8jrhozmu" name="Compatibility tables" author="" url="" tags="" ctime="20201009092411" dir="1602213851mrc7spnf0g" file="text.html"/>
+      <record id="1602271805zvf8fs9jwp" name="Editors" author="" url="" tags="" ctime="20201010013005" dir="1602271805by5ll5bddb" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="16067452202e0koj45dz" name="Databases">
+     <recordtable>
+      <record id="1606745299vjbb73zltk" name="Draw ERD from source code" author="" url="" tags="" ctime="20201130200819" dir="1606745299ar2as79wcm" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -128,6 +140,7 @@
      <record id="1587036696959523997q" name="UkM1U0lNUAMuXmX77emupGHzNWtGUKREkGcYFzuRfvF0RbQzfkrvyXqVsBcKqIuIEsApW9/qzoFuNXXCggKKNKpY0/oeCs0FyR75RqUa2yirqQuAojQKuCa0UzOmBGXOGI5bAbTpb2k=" author="" url="" tags="" ctime="20200416200629" dir="1587036696j43f0xkihw" file="text.html" crypt="1"/>
      <record id="1587051923avziia5so6" name="UkM1U0lNUANlcMu2sX4JB9nKIVFRfTftdihbxT7Tg8aLPJ/9oZF/rWRRbgC/EzfjflNY/jKNV2nuyObJUKChf39aadmHGQ+ZPWgOKa2NhhcgHdAeVEuRazlTB1LOOl6DkfJJk/ACePa3dwpkdBpJ/Q==" author="" url="" tags="" ctime="20200416214523" dir="158705192392s7707jet" file="text.html" crypt="1"/>
      <record id="1589308665ng1eguywfc" name="UkM1U0lNUAMt//fxzolQRz1ZcVOxuIUarUS3/B0Ho6pR6zIBy/wkf9+/GAHnpBrVAvU2Q1ICW+E=" author="" url="" tags="" ctime="20200513003745" dir="1589308665lvzq3amyz6" file="text.html" crypt="1"/>
+     <record id="1602070316nvfylqf5e7" name="UkM1U0lNUAM5ni2/ls/5I5t9wF7jo56hxVCUN/g39lO4l6A/LYogyUoyimAxehsCxAAuKDIHjgM=" author="" url="" tags="" ctime="20201007173156" dir="16020703165qf9a4u9jh" file="text.html" crypt="1"/>
     </recordtable>
    </node>
    <node crypt="" id="1587045995zwbhekoqsu" name="Health">
@@ -153,7 +166,14 @@
      <record id="1590347276w5uhr76gom" name="UkM1U0lNUAOli/aQo3DmHzLB1HhIFXwDpc2CcOLhyCZoAYJ/UEiCNC38Ng+zBlHyyotlrVFGjDSGXKHoFkEiaTEJ13Izcnop" author="" url="" tags="" ctime="20200525010756" dir="1590347276te2rixe85w" file="text.html" crypt="1"/>
      <record id="1590916056udsyvsvb71" name="UkM1U0lNUAPZ5gIZA2TTAmQLN0lGxObiafJFJGy1JsZaYTbW5NNOQjrLXoNxYmf5BMCeHlR1SWY6BG7nVR4ew4/a1GcEJYXpEGf+gTG2ho0IOwIIglkGQcuqKx9NxCDEoY+UN0rlkroO9HETIfq77IhiR/qbBUSz" author="" url="" tags="" ctime="20200531150736" dir="1590916056hpshoz0obw" file="text.html" crypt="1"/>
      <record id="1590916268o8uuz34z37" name="UkM1U0lNUAOkj6n6m66EBqhDDkUPDBkOHzlmaegSJ3uRyapd9ulFchdFfx11inVztNBPBIeSd4k+GltvQ4W6Ddu5zATr9bKfWQ8TVAXJvk8ETzhMLcJTt9cViiYxRwTd" author="" url="" tags="" ctime="20200531151108" dir="15909162680jceli8s00" file="text.html" crypt="1"/>
-     <record id="1602012275o7wrhm0lqy" name="UkM1U0lNUAPA1cpjZX+4ZFtv0c63BtMEkRGFWrJ2mnSFI/b8ANenS2fEzdNqzw7B" author="" url="" tags="" ctime="20201007012435" dir="16020122759cftxz7khv" file="text.html" crypt="1"/>
+     <record id="1603555009w712hildbo" name="UkM1U0lNUANvhLppJtNW4SSmr5sCLZMPoFhPnL+oRX8Q4xw+sjQnki/XTX5t84+9" author="" url="" tags="" ctime="20201024215649" dir="1603555009p2iajmlci2" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1602344168emuq4z1u0n" name="UkM1U0lNUAMoTxpryMnBUmuiGZcfMp+hpQLyip9w7ZBBi7WzPwFsjlqPp/YyWImKqJSMEpLwrAo=">
+    <recordtable>
+     <record id="16023442447g4y7tdkev" name="UkM1U0lNUANnO44MYUXwd/ejmK2+sk2MYp5uRRYAfIcfDmvnRbvT3upWG3YLwzpX" author="" url="" tags="" ctime="20201010213724" dir="16023442448sv6mtj3iy" file="text.html" crypt="1"/>
+     <record id="1602349628m8ygp7jsem" name="UkM1U0lNUAMs6D0mU1k1JqWdNsU5NqBy78aOXxQCBkveA7MJUwMUPuekeKqYYncr" author="" url="" tags="" ctime="20201010230708" dir="1602349628b233ceus9j" file="text.html" crypt="1"/>
+     <record id="16023992861q661qdgoc" name="UkM1U0lNUAOP2eAXCSAbBWCRYo1QyMH59vcAcVNtNLTuqWi2ZtBfMVTxx5HBlVWgts3Fqj/AO1c=" author="" url="" tags="" ctime="20201011125446" dir="16023992860enlzkc6q3" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
